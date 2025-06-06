@@ -1,6 +1,5 @@
-# Mercado WhatsApp Bot 🚀
-
-Este projeto é um **bot de WhatsApp para um mercado** que responde a mensagens automaticamente. Ele foi desenvolvido com **Node.js**, **Express**, e integrado ao **Twilio** para envio e recebimento de mensagens pelo WhatsApp. Aqui você encontrará um guia completo para configurar o projeto, incluindo o uso do **Ngrok**, variáveis de ambiente (`.env`), e como executar o bot localmente.
+#MESTRE DAS RESERVAS
+Mestre das Reservas é uma aplicação web desenvolvida para automatizar o processo de reservas em restaurantes. O sistema permite que os clientes façam reservas online e recebam confirmações automáticas via WhatsApp. O objetivo é melhorar a organização, reduzir o tempo de espera e aumentar a eficiência no atendimento.
 
 ---
 
